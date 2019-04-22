@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">indreams.me (unofficial)</string>
+    <string name="first">The Developer of this application is in no any way associated with Media Molecule nor receiving compensation in any form. indreams.me (unofficial) was made for the sole purpose of
+        making it easier for the user to access the official indreams.me (https://indreams.me/) web page.
+         \n\n The full source code used to wrap indreams.me can be found at ???LINK ADDRESS TO GITHUB???.
+        \n\nBy using this application you acknowledge the above statement in full.
+    </string>
+</resources>
